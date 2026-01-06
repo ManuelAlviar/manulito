@@ -247,7 +247,7 @@
 
     .banner {
       background: linear-gradient(135deg, rgba(230, 57, 70, 0.5), rgba(164, 22, 26, 0.5)), 
-                  url("banner.jpg") center/cover no-repeat;
+                  url("obstetriciabanner.jpg") center/cover no-repeat;
       border-radius: 16px;
       height: 240px;
       margin-bottom: 2rem;
@@ -1624,3 +1624,4 @@ header .brand .btn-aula:hover span {
     display: none;
   }
 }
+
